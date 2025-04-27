@@ -1,0 +1,178 @@
+{
+  "Home": {
+    "homePageTitle": "About Us",
+    "homePageDescription": "Learn more about us and our mission."
+  },
+
+  "Header": {
+    "logo": "App Landing",
+    "downbtn": "DOWNLOAD"
+  },
+
+  "Menu": {
+    "home": "Home",
+    "features": "Questions",
+    "services": "Services",
+    
+    "news": "Blogs",
+    "temework": "Temework",
+    "pages": "Pages",
+    "contact": "ContactUs",
+    "blogs": "Blogs",
+    "partners": "Partners",
+    "questions": "Questions"
+
+  },
+
+  "Hero": {
+    "title": "Marketing Journey with us is",
+    "description": "Marketing journey with us will be professional in driving growth and maximizing the return on investment for your company through sophisticated digital marketing strategies in content marketing, social media management and SEO optimization to ensure the achievement of your business goals.",
+    "btnTitle1": "Call Us Now",
+    "btnTitle2": "About Us"
+  },
+
+  "OurTarget": {
+    "title": "About Markup",
+    "subtitle": "Lots Of Digital Marketing Stages ...",
+    "description": "Offering electronic marketing solutions for companies and institutions of whatever size in Egypt and abroad by increasing brand awareness and reaching the largest target audience according to a strategic marketing plan compatible with the company's field and also using creative ideas and different marketing methods."
+
+  },
+
+  "Partners": {
+    "title": "Marketing Journey with us is",
+    "description": "We are a talented, creative, and professional marketing agency. We specialize in driving growth and maximizing ROI for businesses through cutting-edge digital marketing stra"
+  },
+
+  "PartnersOne": {
+    "P1": {
+      "heading": "Ebn Misr",
+      "heading2": "popular restaurants that are known for diversity and severing different kinds of food in affordable prices",
+      "Q1": "Question To Implmanteation for This brand Get All",
+      "A1": "Answer for main questions to implmentation for this and you must get content for this",
+      "Q2": "Question To Implmanteation for This brand Get All",
+      "A2": "Answer for main questions to implmentation for this and you must get content for this",
+      "Q3": "Question To Implmanteation for This brand Get All",
+      "A3": "Answer for main questions to implmentation for this and you must get content for this",
+      "Q4": "Question To Implmanteation for This brand Get All",
+      "A4": "Answer for main questions to implmentation for this and you must get content for this"
+    },
+
+    "P2": {
+      "heading": "Salta3on",
+      "heading2": "see restaurant that affords different kinds of sea food and different dishes ",
+      "Q1": "Question To Implmanteation for This brand Get All",
+      "A1": "Answer for main questions to implmentation for this and you must get content for this",
+      "Q2": "Question To Implmanteation for This brand Get All",
+      "A2": "Answer for main questions to implmentation for this and you must get content for this",
+      "Q3": "Question To Implmanteation for This brand Get All",
+      "A3": "Answer for main questions to implmentation for this and you must get content for this",
+      "Q4": "Question To Implmanteation for This brand Get All",
+      "A4": "Answer for main questions to implmentation for this and you must get content for this"
+    },
+
+    "P3": {
+      "heading": "Bahia",
+      "heading2": "Grill restaurants that are specialized in authentic Egyptian cuisine",
+
+      "Q1": "Question To Implmanteation for This brand Get All",
+      "A1": "Answer for main questions to implmentation for this and you must get content for this",
+      "Q2": "Question To Implmanteation for This brand Get All",
+      "A2": "Answer for main questions to implmentation for this and you must get content for this",
+      "Q3": "Question To Implmanteation for This brand Get All",
+      "A3": "Answer for main questions to implmentation for this and you must get content for this",
+      "Q4": "Question To Implmanteation for This brand Get All",
+      "A4": "Answer for main questions to implmentation for this and you must get content for this"
+    },
+
+    "P4": {
+      "heading": "Nos Dasta",
+      "heading2": "fast food restaurants that are specialized in Hawawshi and shawarma and are known for food inventions",
+
+      "Q1": "Question To Implmanteation for This brand Get All",
+      "A1": "Answer for main questions to implmentation for this and you must get content for this",
+      "Q2": "Question To Implmanteation for This brand Get All",
+      "A2": "Answer for main questions to implmentation for this and you must get content for this",
+      "Q3": "Question To Implmanteation for This brand Get All",
+      "A3": "Answer for main questions to implmentation for this and you must get content for this",
+      "Q4": "Question To Implmanteation for This brand Get All",
+      "A4": "Answer for main questions to implmentation for this and you must get content for this"
+    },
+
+
+    "P5": {
+      "heading": "Elnegma Elnabolsya",
+      "heading2": "fast food restaurants that are specialized in Hawawshi and shawarma and are known for food inventions",
+
+      "Q1": "Question To Implmanteation for This brand Get All",
+      "A1": "Answer for main questions to implmentation for this and you must get content for this",
+      "Q2": "Question To Implmanteation for This brand Get All",
+      "A2": "Answer for main questions to implmentation for this and you must get content for this",
+      "Q3": "Question To Implmanteation for This brand Get All",
+      "A3": "Answer for main questions to implmentation for this and you must get content for this",
+      "Q4": "Question To Implmanteation for This brand Get All",
+      "A4": "Answer for main questions to implmentation for this and you must get content for this"
+    },
+
+
+    "P6": {
+      "heading": "Mashakik",
+      "heading2": "fast food restaurants that are specialized in Hawawshi and shawarma and are known for food inventions",
+
+      "Q1": "Question To Implmanteation for This brand Get All",
+      "A1": "Answer for main questions to implmentation for this and you must get content for this",
+      "Q2": "Question To Implmanteation for This brand Get All",
+      "A2": "Answer for main questions to implmentation for this and you must get content for this",
+      "Q3": "Question To Implmanteation for This brand Get All",
+      "A3": "Answer for main questions to implmentation for this and you must get content for this",
+      "Q4": "Question To Implmanteation for This brand Get All",
+      "A4": "Answer for main questions to implmentation for this and you must get content for this"
+    }
+  },
+
+
+  "Questions": {
+    "Q1": {
+      "Q1": "Marketing is how you promote and sell your products or services. It includes",
+      "A1": "Understanding Customers: Knowing what they need.",
+      "A2": "Promoting Your Business: Getting the word out through ads and content.",
+      "A3": "Connecting with People: Engaging with customers online and through other channels.",
+      "A4": "Boosting Sales: Encouraging people to buy from you."
+      
+    },
+
+    "Q2": {
+      "Q1": "Why do you need marketing?",
+      "A1": "1.Get Noticed: Helps people find your business.",
+      "A2": "2.Increase Sales: Attracts new customers and grows your sales.",
+      "A3": "3.Build Your Brand: Creates recognition and trust.",
+      "A4": "4.Engage Customers: Keeps your audience interested and connected.",
+      "A5": "5.Improve: Shows what’s working and what needs to change."
+      
+    },
+
+    "Q3": {
+      "Q1": "How long does it take to see results from CPC advertising?",
+      "A1": "The timeframe for seeing results from CPC (Cost-Per-Click) advertising can be relatively short compared to other marketing strategies. Typically, you can start seeing initial results, such as clicks and impressions, within a few hours to a few days after launching a campaign. However, the time it takes to see more significant results, such as conversions or return on investment (ROI), can vary based on several factors"
+      
+    },
+    "Q4": {
+      "Q1": "How do you measure the success of your marketing campaigns?",
+      "A1": "We measure the success of our marketing campaigns using various key performance indicators (KPIs) such as website traffic, conversion rates, click-through rates (CTR), return on investment (ROI), and customer engagement metrics. We provide regular reports and insights to track progress and make data-driven decisions."
+      
+    }
+    
+    
+  },
+
+
+
+
+  "NewsUs": {},
+  "Services": {},
+  
+
+  "Teamework": {},
+  "Testimonials": {
+    
+  }
+}

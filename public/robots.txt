@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://markup.vip
+
+# Sitemaps
+Sitemap: https://markup.vip/sitemap.xml
